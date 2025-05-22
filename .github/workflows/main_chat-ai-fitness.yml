@@ -78,4 +78,5 @@ jobs:
         with:
           app-name: 'chat-ai-fitness'
           slot-name: 'Production'
+          {{ code }}
           
